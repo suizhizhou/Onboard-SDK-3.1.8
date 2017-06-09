@@ -1,0 +1,5 @@
+ID:1038500
+KEY:47f8db65b72f97d827beafda7b5c57af65098a10e54ac82f11ce59b8d3dd46ce
+DeviceName: /dev/ttyS0
+BaudRate: 230400
+Version: versionM100_31
